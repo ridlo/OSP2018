@@ -1,4 +1,4 @@
-\documentclass[11pt,fleqn]{exam}
+\lymdocumentclass[11pt,fleqn]{exam}
 \usepackage[utf8]{inputenc}
 
 \usepackage[margin=1in]{geometry}
@@ -359,7 +359,7 @@ Hence, statements 2 and 4 are correct, the answer is C.
 \question Diketahui spektrum galaksi sebagai berikut.
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.8\textwidth]{lymanbreak.png}
+\includegraphics[width=0.6\textwidth]{lymanbreak.png}
 \end{figure}
 
 Deret Lyman mengikuti persamaan
